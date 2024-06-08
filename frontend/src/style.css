@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .AddAccount, .DataPage {
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .EmailList ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .EmailList li {
+    margin: 10px 0;
+  }
+  
